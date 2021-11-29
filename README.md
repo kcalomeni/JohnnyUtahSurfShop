@@ -1,1 +1,1 @@
-# JohnnyUtahSurfShop
+For this assignment, I got rid of regular surfboard sizes for a human (Small, Medium, and Large) and developed a size for a squirrel (XXXS). In the program, the user can choose how many XXXS surfboards they would like to purchase. Each XXXS surfboard costs $25.00 and the program will allow the user to purchase and pay however many times they choose. Enjoy!
